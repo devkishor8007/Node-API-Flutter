@@ -1,16 +1,16 @@
-# flutter_node
+# flutter_node(fetch the API in Flutter)
 
-A new Flutter project.
+A new Flutter Node-API-Flutter application.
 
-## Getting Started
+## Kishor Kc
 
-This project is a starting point for a Flutter application.
+I have hosted the Node js API on the Heroku server.
+https://apies.herokuapp.com/
 
-A few resources to get you started if this is your first Flutter project:
+Final Output of the Node_Flutter App.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Screenshot_2021-04-28-13-11-26-788_com example flutter_node](https://user-images.githubusercontent.com/73419211/116364378-df621180-a823-11eb-81d7-54bda7741278.jpg)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![Screenshot_2021-04-28-13-11-33-917_com example flutter_node](https://user-images.githubusercontent.com/73419211/116364235-b6418100-a823-11eb-96f0-db183c3c8f23.jpg)
+
